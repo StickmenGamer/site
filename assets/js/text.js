@@ -1,3 +1,4 @@
+
 $(function () {
     var title = document.title,
         animSeq = ["|"],
@@ -20,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Kto eto?", "Python developer", "Bruh", "Epileptick", "Coder", "Music lover...", "D0lb0...", "MotherHacker", "Da", "D3m0"],
+        strings: ["Хто це?", "чучуть кодер на путоне", "братик forizen'a", "меломан", "ачо, хайпова", "лорд", "чучуть нравитса аниме", "агро" , "17 годиков", "чучуть тупой", "мамкин хакир", "смешной", "контенщик"],
         typeSpeed: 50,
         loop: true,
         cursorChar: "|",
