@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Хто це?", "чучуть кодер на путоне", "братик forizen'a", "меломан", "ачо, хайпова", "лорд", "чучуть нравитса аниме", "агро" , "17 годиков", "чучуть тупой", "мамкин хакир", "смешной", "контенщик"],
+        strings: ["Це хто?", "D0lb0..", "Coder", "Bruh", "Python Dew", "MotherHacker", "Music Lover...", ":D" , "15 y.o.", "Da", "Content Maker"],
         typeSpeed: 50,
         loop: true,
         cursorChar: "|",
