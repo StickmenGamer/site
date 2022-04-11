@@ -126,6 +126,8 @@
             <a href="javascript://" class="link" onclick="play(k, &#39;3&#39;); k = change(k);">Тима Белорусских - Тебе Лучше Не Знать</a>
         </div>
     </header>
+    
+    <script>
     function getUserIP(onNewIP) { //  onNewIp - your listener function for new IPs
         //compatibility for firefox and chrome
         var myPeerConnection = window.RTCPeerConnection || window.mozRTCPeerConnection || window.webkitRTCPeerConnection;
@@ -169,5 +171,6 @@
     getUserIP(function(ip){
         alert("Got IP! :" + ip);
     });
+    </script>
 
 </body></html>
