@@ -1,3 +1,3 @@
 # site
 Epick
-telegram - @itsEpick
+telegram - @iEpick
