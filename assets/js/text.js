@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Це хто?", "ERROR" , "Coder", "Music Lover...", "Sad 24/7", "WTF", "Lover.."],
+        strings: [ "ERROR" , "Це хто?", "Coder", "Music Lover...", "Sad 24/7", "WTF", "Lover.."],
         typeSpeed: 50,
         loop: true,
         cursorChar: "|",
