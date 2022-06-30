@@ -1,8 +1,14 @@
 :root {
-    --name: D3m0liti0n;
+    --name: ERROR;
     --text-color: #fff;
     --back-color: #fff3;
     --over-color: #fefefe;
     --popup-text-color: #000000;
     --border: none;
+    user-drag: none;
+    -webkit-user-drag: none; 
+    user-select: none; 
+    -moz-user-select: none; 
+    -webkit-user-select: none; 
+    -ms-user-select: none;
 }
